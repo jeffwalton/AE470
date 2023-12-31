@@ -2,7 +2,7 @@
 
 AE470: Orbital Mechanics at Clarkson University
 
-[Syllabus]()
+[Syllabus](https://github.com/jeffwalton/AE470/blob/main/AE470_Spring2024_course_syllabus.md)
 
 ## Notebooks
 
