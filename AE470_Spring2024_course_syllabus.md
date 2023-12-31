@@ -48,25 +48,28 @@ A.H.J. de Ruiter, C.J. Damaren, J.R. Forbes; Spacecraft Dynamics and Control: An
 
 1. Introduction
 2. Vector and Matrix review
-   1. Vector Arithmetic
-   2. Dot Product
-   3. Cross Product
-   4. Rotation Matricies
+   i. Vector Arithmetic
+   ii. Dot Product
+   iii. Cross Product
+   iv. Rotation Matricies
 3. Numerical Integration
 4. Kinematics Review
 5. Time and Coordinate Systems
-5. The Two-Body Problem
-   1. Newton's Laws
-   2. Equations of Motion
-   3. Constants of Motion
-   4. Kepler's Laws
-   5. Orbital Elements
-6. Orbit Determination
-7. Orbital Maneuvers
-8. Interplanetary Trajectories
-9. Orbital Perturbations
-10. 
+6. The Two-Body Problem
+   i. Newton's Laws
+   ii. Equations of Motion
+   iii. Constants of Motion
+   iv. Kepler's Laws
+   v. Orbital Elements
+7. Orbit Determination
+8. Orbital Maneuvers
+9. Interplanetary Trajectories
+10. Orbital Perturbations
 
 ## Assingments and Grading
 
+| Week  | Date | Topics | Assignments |
+| ----- | ---- | ------ | ----------- |
+| 1  | Jan 11 | Introduction | |
+| 2  | Jan 16 | Vector and Matrix Review | |
 
