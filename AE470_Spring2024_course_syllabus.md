@@ -1,8 +1,3 @@
-\documentclass{article} 
-\usepackage[english]{babel}
-
-\begin{document}
-
 
 # AE470 - 01: Orbital Mechanics
 
@@ -75,4 +70,3 @@ A.H.J. de Ruiter, C.J. Damaren, J.R. Forbes; Spacecraft Dynamics and Control: An
 ## Assingments and Grading
 
 
-\end{document}
