@@ -77,27 +77,28 @@ A.H.J. de Ruiter, C.J. Damaren, J.R. Forbes; Spacecraft Dynamics and Control: An
 | 2  | Jan 16, Jan 18 | Vector and Matrix Review |  |
 | 3  | Jan 23, Jan 25 | Numerical Integration, Two-Body EOM | Assignment #1 |
 | 4  | Jan 30, Feb 1 | Two-Body Constants of Motion, Kepler's Laws |  |
-| 5  | Feb 6, Feb 8 | Two-Body Orbital Elements | Assignment #2 - p,v & Orbital Elements |
+| 5  | Feb 6, Feb 8 | Two-Body Orbital Elements | Assignment #2 - p,v <=> Orbital Elements |
 | 6  | Feb 13, Feb 15 | Orbit Determination | Assignment #3 - Orbit Determination |
 | 7  | Feb 20 | Orbital Maneuvers | Assignment #4 - Orbit Maneuvers |
-| 7  | Feb 22 | **February Break (No Class)** |  |
-| 8  | Feb 27 | Interplanetary Trajectories |  |
+| 7  | Feb 22 | *February Break (No Class)* |  |
+| 8  | Feb 27 | Interplanetary Trajectories | Assignment #5 - Interplanetary Trajectories |
 | 8  | Feb 29 | **Test #1 Due** | Test #1 |
-| 9  | Mar 5 | Vector and Matrix Review |  |
-| 10  | Mar 12 | Vector and Matrix Review |  |
-| 11  | Mar 19, Mar 21 | Spring Recess |  |
-| 12  | Mar 26 | Vector and Matrix Review |  |
-| 13  | Apr 2 | Vector and Matrix Review |  |
-| 14  | Apr 9 | Vector and Matrix Review |  |
-| 15  | Apr 16 | Vector and Matrix Review |  |
-| 16  | Apr 23 | Vector and Matrix Review |  |
-| 17  | May 1 | Final Exams |  |
+| 9  | Mar 5, Mar 7 | Orbital Perturbations | Assignment #6 - Orbital Perturbations |
+| 10  | Mar 12, Mar 14 | Restricted Three-Body Problem |  |
+| 11  | Mar 19, Mar 21 | *Spring Recess (No Class)* |  |
+| 12  | Mar 26, Mar 28 | Project Discussion  |  |
+| 13  | Apr 2, Apr 4 |  |  |
+| 14  | Apr 9, Apr 11 |  |  |
+| 14  | Apr 11 | **Test #2 Due** | Test #2 |
+| 15  | Apr 16, Apr 18 | Project Presentations | Project |
+| 16  | Apr 23, Apr 25 | Project Presentations | Project |
+| 17  | May 7 | **Project Due** | Project |
 
 
 ## Grading
 
 | Graded Activity | Percent of Final Grade |
 | --------------- | ---------------------- |
-| Assignments (x4) | 40% |
+| Assignments (x6) | 60% |
 | Project | 20% |
-| Tests (x2) | 40% |
+| Tests (x2) | 20% |
