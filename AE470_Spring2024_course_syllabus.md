@@ -72,8 +72,8 @@ A.H.J. de Ruiter, C.J. Damaren, J.R. Forbes; Spacecraft Dynamics and Control: An
 | Week  | Date | Topics | Graded Activity |
 | ----- | ---- | ------ | ----------- |
 | 1  | Jan 11 | Introduction | |
-| 2  | Jan 16 | Vector and Matrix Review | |
-| 3  | Jan 23 | Vector and Matrix Review | |
+| 2  | Jan 16, Jan 18 | Vector and Matrix Review | |
+| 3  | Jan 23, Jan 25 | Numerical Integration, Two-Body EOM | |
 | 4  | Jan 30 | Vector and Matrix Review | |
 | 5  | Feb 6 | Vector and Matrix Review | |
 | 6  | Feb 13 | Vector and Matrix Review | |
