@@ -8,6 +8,8 @@ TuTh 4:30pm - 5:45pm
 Instructor: Jeff Walton, Ph.D.  
 Email: <jwalton@clarkson.edu>
 
+![AE470](/images/COE.png)
+
 ## Course Description
 
 This course provides an overview of the fundamentals of orbital mechanics. Beginning from kinematics and rigid body dynamics, students are introduced to topics in orbital and attitude dynamics and control. In orbital dynamics and control, core topics covered include: the two-body problem, orbital motion, Kepler’s Laws, orbital elements, orbital perturbations, orbital maneuvers, interplanetary trajectories, and the restricted three-body problem. In attitude dynamics and control, core topics covered include: attitude stabilization, torques on a spacecraft, torque-free motion, spin and dual-spin stabilization, gravity-gradient stabilization, and active attitude control.
@@ -75,7 +77,7 @@ A.H.J. de Ruiter, C.J. Damaren, J.R. Forbes; Spacecraft Dynamics and Control: An
 | ----- | ---- | ------ | ----------- |
 | 1  | Jan 11 | Introduction |  |
 | 2  | Jan 16, Jan 18 | Vector and Matrix Review |  |
-| 3  | Jan 23, Jan 25 | Numerical Integration, Two-Body EOM | Assignment #1 |
+| 3  | Jan 23, Jan 25 | Numerical Integration, Two-Body EOM | Assignment #1 - Numerical Integration |
 | 4  | Jan 30, Feb 1 | Two-Body Constants of Motion, Kepler's Laws |  |
 | 5  | Feb 6, Feb 8 | Two-Body Orbital Elements | Assignment #2 - p,v <=> Orbital Elements |
 | 6  | Feb 13, Feb 15 | Orbit Determination | Assignment #3 - Orbit Determination |
