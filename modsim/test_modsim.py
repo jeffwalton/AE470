@@ -3,8 +3,8 @@ from modsim import *
 
 import os
 
-import pint
-from pint.errors import UnitStrippedWarning
+# import pint
+# from pint.errors import UnitStrippedWarning
 
 import warnings
 
