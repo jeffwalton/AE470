@@ -76,9 +76,9 @@ A.H.J. de Ruiter, C.J. Damaren, J.R. Forbes; Spacecraft Dynamics and Control: An
 | Week  | Date | Topics | Graded Activity |
 | ----- | ---- | ------ | ----------- |
 | 1  | Jan 11 | Introduction |  |
-| 2  | Jan 16, Jan 18 | Vector and Matrix Review |  |
-| 3  | Jan 23, Jan 25 | Numerical Integration, Two-Body EOM | Assignment #1 - Numerical Integration |
-| 4  | Jan 30, Feb 1 | Two-Body Constants of Motion, Kepler's Laws |  |
+| 2  | Jan 16, Jan 18 | Vector and Matrix Review, Numerical Integration |  |
+| 3  | Jan 23, Jan 25 | Two-Body EOM, Two-Body Constants of Motion |  |
+| 4  | Jan 30, Feb 1 | Kepler's Laws | Assignment #1 - Numerical Integration |
 | 5  | Feb 6, Feb 8 | Two-Body Orbital Elements | Assignment #2 - p,v <=> Orbital Elements |
 | 6  | Feb 13, Feb 15 | Orbit Determination | Assignment #3 - Orbit Determination |
 | 7  | Feb 20 | Orbital Maneuvers | Assignment #4 - Orbit Maneuvers |
