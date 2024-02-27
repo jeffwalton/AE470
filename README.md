@@ -14,6 +14,7 @@ AE470: Orbital Mechanics at Clarkson University
 - [Keplerian Orbits - Time of Flight](https://github.com/jeffwalton/AE470/blob/main/05_ae470_keplerian_orbits_tof.ipynb)
 - [Rotation Matrices](https://github.com/jeffwalton/AE470/blob/main/06_ae470_rotation_matrices.ipynb)
 - [Classical Orbital Elements](https://github.com/jeffwalton/AE470/blob/main/07_ae470_classical_orbital_elements.ipynb)
+- [Time, Date, Ground Tracks](https://github.com/jeffwalton/AE470/blob/main/08_ae470_time_date_ground_track.ipynb)
 
 ## Assignments
 
@@ -24,5 +25,6 @@ AE470: Orbital Mechanics at Clarkson University
 ## Projects
 
 - [Project #1](https://github.com/jeffwalton/AE470/blob/main/project1-2_ae470_STK.pdf)
-- [Project #1](https://github.com/jeffwalton/AE470/blob/main/project1-2_ae470_STK.pdf)
+- [Project #2](https://github.com/jeffwalton/AE470/blob/main/project1-2_ae470_STK.pdf)
+- [Project #3](https://github.com/jeffwalton/AE470/blob/main/project_03_take-home_test.ipynb)
 
