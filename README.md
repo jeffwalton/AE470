@@ -24,19 +24,22 @@ AE470: Orbital Mechanics at Clarkson University
 ### Equations
 - [Equation Sheet](equations.ipynb)
 
-## Assignments
+## Assignments, Projects, and Solutions
+
+### Assignments
 
 - [Assignment #1](https://github.com/jeffwalton/AE470/blob/main/assignment_01_ae470.ipynb)
 - [Assignment #2](https://github.com/jeffwalton/AE470/blob/main/assignment_02_ae470.ipynb)
 - [Assignment #3](https://github.com/jeffwalton/AE470/blob/main/assignment_03_ae470.ipynb)
 
-## Projects
+### Projects
 
 - [Project #1](https://github.com/jeffwalton/AE470/blob/main/project1-2_ae470_STK.pdf)
 - [Project #2](https://github.com/jeffwalton/AE470/blob/main/project1-2_ae470_STK.pdf)
 - [Project #3](https://github.com/jeffwalton/AE470/blob/main/project_03_take-home_test.ipynb)
 
-## Solutions
+### Solutions
 - [Assignment #1](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_01_solution_ae470.ipynb)
 - [Assignment #2](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_02_solution_ae470.ipynb)
+- [Assignment #3](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_03_solution_ae470.ipynb)
 
