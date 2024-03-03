@@ -6,7 +6,7 @@ AE470: Orbital Mechanics at Clarkson University
 
 ## Topics: Notebooks and Slides
 
-- [Slides: Week1](slides/AE470_Week1_slides.pdf)
+- [Slides: Week1](Slides/AE470_Week1_slides.pdf)
 - [Notebook: Setting Up the Environment](https://github.com/jeffwalton/AE470/blob/main/00_ae470_setup_environment.ipynb)
 - [Notebook: Prerequisite Material](https://github.com/jeffwalton/AE470/blob/main/01_ae470_prerequisite_material.ipynb)
 - [Notebook: Equations of Motion and Numerical Integration](https://github.com/jeffwalton/AE470/blob/main/02_ae470_eom_numerical_integration.ipynb)
@@ -18,8 +18,11 @@ AE470: Orbital Mechanics at Clarkson University
 - [Slides: Classical Orbital Elements](slides/slides_classical_orbital_elements.pdf)
 - [Notebook: Classical Orbital Elements](https://github.com/jeffwalton/AE470/blob/main/07_ae470_classical_orbital_elements.ipynb)
 - [Notebook: Time, Date, Ground Tracks](https://github.com/jeffwalton/AE470/blob/main/08_ae470_time_date_ground_track.ipynb)
-- [Slides: Orbital Maneuvers 01](slides/slides_orbital_maneuvers_01.pdf)
-- [Slides: Orbital Maneuvers 02](slides/slides_orbital_maneuvers_02.pdf)
+- [Slides: Orbital Maneuvers 01](Slides/slides_orbital_maneuvers_01.pdf)
+- [Slides: Orbital Maneuvers 02](Slides/slides_orbital_maneuvers_02.pdf)
+
+### Equations
+- [Equation Sheet](equations.ipynb)
 
 ## Assignments
 
