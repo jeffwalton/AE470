@@ -20,6 +20,8 @@ AE470: Orbital Mechanics at Clarkson University
 - [Notebook: Time, Date, Ground Tracks](https://github.com/jeffwalton/AE470/blob/main/08_ae470_time_date_ground_track.ipynb)
 - [Slides: Orbital Maneuvers 01](Slides/slides_orbital_maneuvers_01.pdf)
 - [Slides: Orbital Maneuvers 02](Slides/slides_orbital_maneuvers_02.pdf)
+- [Slides: Orbit Determination](Slides/slides_orbit_determination_01.pdf)
+- [Slides: GPS](Slides/slides_gps.pdf)
 
 ### Equations
 - [Equation Sheet](equations.ipynb)
@@ -42,4 +44,5 @@ AE470: Orbital Mechanics at Clarkson University
 - [Assignment #1](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_01_solution_ae470.ipynb)
 - [Assignment #2](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_02_solution_ae470.ipynb)
 - [Assignment #3](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_03_solution_ae470.ipynb)
+- [Project #3](https://github.com/jeffwalton/AE470/blob/main/solutions/project_03_solution_take-home_test.ipynb)
 
