@@ -22,6 +22,8 @@ AE470: Orbital Mechanics at Clarkson University
 - [Slides: Orbital Maneuvers 02](Slides/slides_orbital_maneuvers_02.pdf)
 - [Slides: Orbit Determination](Slides/slides_orbit_determination_01.pdf)
 - [Slides: GPS](Slides/slides_gps.pdf)
+- [Slides: Interplanetary Trajectories 01](Slides/slides_interplanetary_trajectories_01.pdf)
+- [Slides: Interplanetary Trajectories 02](Slides/slides_interplanetary_trajectories_02.pdf)
 
 ### Equations
 - [Equation Sheet](equations.ipynb)
