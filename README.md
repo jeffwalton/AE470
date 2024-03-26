@@ -35,6 +35,7 @@ AE470: Orbital Mechanics at Clarkson University
 - [Assignment #1 - Numerical Integration](https://github.com/jeffwalton/AE470/blob/main/assignment_01_ae470.ipynb)
 - [Assignment #2 - Two-Body Problems](https://github.com/jeffwalton/AE470/blob/main/assignment_02_ae470.ipynb)
 - [Assignment #3 - Classical Orbital Elements](https://github.com/jeffwalton/AE470/blob/main/assignment_03_ae470.ipynb)
+- [Assignment #4 - Interplanetary Trajectories](https://github.com/jeffwalton/AE470/blob/main/assignment_04_ae470.ipynb)
 
 ### Projects
 
