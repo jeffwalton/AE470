@@ -25,6 +25,7 @@ AE470: Orbital Mechanics at Clarkson University
 - [Slides: Interplanetary Trajectories 01](Slides/slides_interplanetary_trajectories_01.pdf)
 - [Slides: Interplanetary Trajectories 02](Slides/slides_interplanetary_trajectories_02.pdf)
 - [Notebook: Interplanetary Trajectories](https://github.com/jeffwalton/AE470/blob/main/09_ae470_interplanetary_trajectories.ipynb)
+- [Slides: Orbit Perturbations](Slides/slides_orbit_perturbations.pdf)
 
 ### Equations
 - [Equation Sheet](equations.ipynb)
