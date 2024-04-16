@@ -26,6 +26,8 @@ AE470: Orbital Mechanics at Clarkson University
 - [Slides: Interplanetary Trajectories 02](Slides/slides_interplanetary_trajectories_02.pdf)
 - [Notebook: Interplanetary Trajectories](https://github.com/jeffwalton/AE470/blob/main/09_ae470_interplanetary_trajectories.ipynb)
 - [Slides: Orbit Perturbations](Slides/slides_orbit_perturbations.pdf)
+- [Notebook: Circular Restricted Three-Body Problem](https://github.com/jeffwalton/AE470/blob/main/10_ae470_circular_restricted_three-body_problem.ipynb)
+
 
 ### Equations
 - [Equation Sheet](equations.ipynb)
